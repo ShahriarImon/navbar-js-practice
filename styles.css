@@ -1,0 +1,34 @@
+.navbar {
+  margin: 0 10%;
+  font-weight: 600;
+}
+
+.leftnav {
+  width: 30%;
+}
+
+.leftnav img {
+  width: 50%;
+  padding: 5% 0;
+}
+
+.rightnav {
+  width: 70%;
+}
+
+.rightnav li {
+  padding: 0 20px;
+}
+
+.rightnav img {
+  height: 30px;
+  width: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+@media only screen and (max-width: 950px) {
+}
